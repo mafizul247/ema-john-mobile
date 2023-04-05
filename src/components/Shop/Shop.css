@@ -15,6 +15,12 @@
     padding: 25px;
 }
 
+.review-order{
+    width: 100%;
+    background-color: #FF9900;
+    color: #FFF;
+}
+
 
 
 @media screen and (min-width: 1201px) {}

@@ -4,3 +4,24 @@
     position: sticky;
     top: 0;
 }
+
+.btn-removeAll {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    width: 100%;
+    margin: 20px 0;
+    background-color: #fa2323;
+    color: #FFFFFF;
+}
+
+.icon-delete{
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.btn-removeAll:hover{
+    background-color: #ad0404;
+    color: #FFFFFF;
+}
